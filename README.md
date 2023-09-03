@@ -1,5 +1,6 @@
 <h1 align="center">Hi! I'm Tamar Millgram 👋</h1>
-<h3>I'm Tamar Millgram, and I'm passionate about tech, people, and continuous learning. Here's a little bit about me:</h3>
+<h3 align="center">I'm Tamar Millgram, and I'm passionate about tech, people, and continuous learning.</h3>
+<h3 align="center">Here's a little bit about me:</h3>
 
 - 🧑‍🤝‍🧑 I'm a people person a tech enthusiast, and a team player!
 
